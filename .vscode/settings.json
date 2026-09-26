@@ -1,5 +1,0 @@
-{
-    "python.defaultInterpreterPath": "C:\\ProgramData\\miniforge3\\envs\\astropy\\python.exe",
-    "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda"
-}
